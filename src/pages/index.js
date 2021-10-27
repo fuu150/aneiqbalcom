@@ -17,7 +17,7 @@ function Index() {
       <Helmet>
         <title>AneIqbal Blog</title>
       </Helmet>
-      <div style="max-width:500px;height:100%">
+      <div>
       <h1>AneIqbalcom</h1>
       <p>AneIqbal.com is a site that contains interesting information content, guides, and reviews about technology. We try our best to provide content as informative and interesting as possible so that visitors get value for the time they give to visit our site. Click <a href="https://www.google.ws/url?sa=t&url=https%3A%2F%2Fbit.ly%2F3maDXrA">aneiqbal</a>,
 <a href="https://www.google.ws/url?q=https%3A%2F%2Fbit.ly%2F3maDXrA">aneiqbal</a>,
