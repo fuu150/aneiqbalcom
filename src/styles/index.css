@@ -11,7 +11,7 @@ main {
   min-height: 100vh;
   padding: 72px 0;
   text-align: center;
-  overflow: scroll-y;
+  word-wrap: break-word;
 }
 h1 {
   font-size: 45px;
